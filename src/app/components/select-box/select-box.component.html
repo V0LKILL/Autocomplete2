@@ -1,0 +1,8 @@
+<section class="selectbox-container">
+
+  <div class="selectbox-selected-item" (click)="toggle()">{{selected?.name}}</div>
+
+  <ul class="selectbox-list" *ngIf="state">
+    <li class="selectbox-item" *ngFor="let item of data" (click)="choose(item)">{{item.name}}</li>
+  </ul>
+</section>

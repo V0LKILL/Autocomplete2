@@ -8,13 +8,15 @@ import { AutocompleteComponent } from './components/autocomplete/autocomplete.co
 import { ListItemComponent } from './components/list-item/list-item.component';
 import { MainComponent } from './main/main.component';
 import { FormsModule } from '@angular/forms';
+import { SelectBoxComponent } from './components/select-box/select-box.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     AutocompleteComponent,
     ListItemComponent,
-    MainComponent
+    MainComponent,
+    SelectBoxComponent
   ],
   imports: [
     BrowserModule,

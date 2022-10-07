@@ -7,3 +7,11 @@
 
 
 <app-list-item></app-list-item>
+
+<div class="selectbox1" *ngIf="cities.length">
+  <app-select-box [data]="cities" (selectEvent)="selectCity($event)" ></app-select-box>
+</div>
+
+
+
+
