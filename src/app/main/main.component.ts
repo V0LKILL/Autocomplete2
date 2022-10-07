@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import {CitiesService} from "../http/cities/cities.service";
+import {CityInterface} from "../interfaces/city.interface";
 
 @Component({
   selector: 'app-main',
@@ -6,10 +8,20 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./main.component.scss']
 })
 export class MainComponent implements OnInit {
+  public cities: CityInterface[] = [];
+  public selectedCity!: CityInterface;
 
-  constructor() { }
+  constructor(private citiesService: CitiesService) { }
 
-  ngOnInit(): void {
+  public ngOnInit(): void {
+    this.citiesService.get().subscribe(
+      (res:CityInterface[]) => {
+        this.cities = res
+      }
+    )
   }
 
+  public selectCity(city: CityInterface) {
+    this.selectedCity = city;
+  }
 }

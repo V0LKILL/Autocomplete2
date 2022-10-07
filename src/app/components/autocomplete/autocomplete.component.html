@@ -1,1 +1,17 @@
-<p>autocomplete works!</p>
+<div class="autocomplete-container">
+
+  <input
+    class="autocomplete-text"
+    type="text"
+    [(ngModel)]="searchStr"
+    (input)="search()"
+  />
+
+  <ul class="autocomplete-wrapper" id="list" *ngIf="searchArr.length">
+    <li
+      class="autocomplete-item"
+      *ngFor = "let item of searchArr"
+      (click)="choose(item)"
+    >{{item.name}}</li>
+  </ul>
+</div>

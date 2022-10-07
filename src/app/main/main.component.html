@@ -1,1 +1,9 @@
-<p>main works!</p>
+<div class="cities-container">
+  <app-autocomplete [data]="cities" (selectEvent)="selectCity($event)"></app-autocomplete>
+
+  <div>{{selectedCity?.name}}</div>
+</div>
+
+
+
+<app-list-item></app-list-item>

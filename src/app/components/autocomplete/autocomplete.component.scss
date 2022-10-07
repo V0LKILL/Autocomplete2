@@ -1,0 +1,33 @@
+.autocomplete {
+  &-container {
+    padding: 10px;
+    width: 200px;
+  }
+
+  &-text {
+    padding: 10px;
+    border: 1px solid #e1e1e1;
+    border-radius: 3px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  &-wrapper {
+    width: 100%;
+    list-style-type: none;
+    border: 1px solid #e1e1e1;
+    margin-top: -7px;
+    box-sizing: border-box;
+    max-height: 200px;
+    overflow: scroll;
+  }
+
+  &-item {
+    padding: 10px 0 0 12px;
+    border-bottom: 1px dashed #e1e1e1;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+}

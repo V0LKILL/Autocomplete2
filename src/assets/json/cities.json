@@ -1,0 +1,329 @@
+{
+  "data": [
+    {
+      "city": "Київ",
+      "mtsbuCode": 244,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Бровари",
+      "mtsbuCode": 88,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Васильків",
+      "mtsbuCode": 89,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Ірпінь",
+      "mtsbuCode": 90,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Вишневе",
+      "mtsbuCode": 3347,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Боярка",
+      "mtsbuCode": 3348,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Бориспіль",
+      "mtsbuCode": 87,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Вишгород",
+      "mtsbuCode": 95,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Буча",
+      "mtsbuCode": 3568,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Одеса",
+      "mtsbuCode": 152,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Харків",
+      "mtsbuCode": 193,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Дніпро",
+      "mtsbuCode": 28,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Львів",
+      "mtsbuCode": 132,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Обухів",
+      "mtsbuCode": 101,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Кривий Ріг",
+      "mtsbuCode": 31,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Донецьк",
+      "mtsbuCode": 37,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Запоріжжя",
+      "mtsbuCode": 74,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Миколаїв",
+      "mtsbuCode": 143,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Сімферополь",
+      "mtsbuCode": 1,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Євпаторія",
+      "mtsbuCode": 3,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Керч",
+      "mtsbuCode": 4,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Вінниця",
+      "mtsbuCode": 9,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Луцьк",
+      "mtsbuCode": 22,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Кам'янське",
+      "mtsbuCode": 29,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Нікополь",
+      "mtsbuCode": 32,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Павлоград",
+      "mtsbuCode": 34,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Горлівка",
+      "mtsbuCode": 39,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Маріуполь",
+      "mtsbuCode": 42,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Краматорськ",
+      "mtsbuCode": 44,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Макіївка",
+      "mtsbuCode": 46,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Слов'янськ",
+      "mtsbuCode": 47,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Житомир",
+      "mtsbuCode": 56,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Ужгород",
+      "mtsbuCode": 64,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Бердянськ",
+      "mtsbuCode": 75,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Мелітополь",
+      "mtsbuCode": 76,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Івано-Франківськ",
+      "mtsbuCode": 81,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Біла Церква",
+      "mtsbuCode": 86,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Кропивницький",
+      "mtsbuCode": 103,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Луганськ",
+      "mtsbuCode": 115,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Алчевськ",
+      "mtsbuCode": 118,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Лисичанськ",
+      "mtsbuCode": 121,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Сєвєродонецьк",
+      "mtsbuCode": 126,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Полтава",
+      "mtsbuCode": 163,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Кременчук",
+      "mtsbuCode": 165,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Рівне",
+      "mtsbuCode": 174,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Суми",
+      "mtsbuCode": 180,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Тернопіль",
+      "mtsbuCode": 188,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Херсон",
+      "mtsbuCode": 206,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Хмельницький",
+      "mtsbuCode": 215,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Черкаси",
+      "mtsbuCode": 224,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Чернівці",
+      "mtsbuCode": 232,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Чернігів",
+      "mtsbuCode": 238,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Севастополь",
+      "mtsbuCode": 245,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    },
+    {
+      "city": "Кам'янець-Подільський",
+      "mtsbuCode": 216,
+      "saiNumbers": null,
+      "saiNumbersOld": null
+    }
+
+  ]
+}

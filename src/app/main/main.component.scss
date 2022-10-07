@@ -1,0 +1,8 @@
+.cities-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: baseline;
+  >div {
+    margin-left: 180px;
+  }
+}

@@ -7,6 +7,7 @@ import {HttpClientModule} from "@angular/common/http";
 import { AutocompleteComponent } from './components/autocomplete/autocomplete.component';
 import { ListItemComponent } from './components/list-item/list-item.component';
 import { MainComponent } from './main/main.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { MainComponent } from './main/main.component';
   imports: [
     BrowserModule,
     HttpClientModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
